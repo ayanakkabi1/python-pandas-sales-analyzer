@@ -1,0 +1,9 @@
+﻿OrderID,Product,Quantity,Price,OrderDate
+101,iPhone 15,1,1000.00,2026-01-15
+102,AirPods Pro,2,250.00,2026-01-16
+103,MacBook Air,1,1200.00,2026-02-01
+104,iPhone 15,,1000.00,02/18/2026
+105,AirPods Pro,1,250.00,2026-02-20
+106,Samsung S24,2,900.00,2026-03-05
+107,MacBook Air,1,1200.00,
+108,iPhone 15,3,1000.00,2026-03-12
